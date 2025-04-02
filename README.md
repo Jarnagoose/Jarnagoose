@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Jarnagoose
 - 👀 I’m interested in using technology and patterns as a form of artistic expression.
-- 🌱Leading a development team building our first video game.
-- - 💞️ I’m looking to collaborate on an art project involving timing and branching synced across multiple devices to build narrative structures amidst chaos.
+- 🌱 Founder of Jarnagoose Studios
